@@ -1,4 +1,4 @@
-![alt text](![alt text](http://url/to/img.png)
+![](NOMAD.png)
 
 # Background
 It is not new that individuals all around the world seek to experience new stuff and learn more about another culture, learning how every country has their own lifestyle. By the mid 20th century, airlines made their way to most countries and made it possible for people to travel to other continents in a matter of hours, replacing the other conventional methods like driving or even riding a train. Airplanes are now considered a conventional way of traveling, but compared to riding a car, airplane tickets have an odd way to manage their pricing. Airplanes tickets can sometimes be extremely cheap and other days they can be overly priced, this is mainly caused by the change in demand throughout the days.
